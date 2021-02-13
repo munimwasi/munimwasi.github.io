@@ -7,7 +7,7 @@ img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Welcome, Aloha]
 ---
-Welcome to my website. I am Munim Hasan Wasi. You can contact me through social media links available on this website.
+Welcome to my website. I am Munim Hasan Wasi, husband of Kazi Lamia Sultana. You can contact me through social media links available on this website.
 
 ## WELCOME
 >Welcome everyone
