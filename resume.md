@@ -1,7 +1,8 @@
 ---
 layout: about
 title: Résumé
-permalink:/resume/
+permalink: /resume/
 ---
+Disclaimer: This website is under constant modification. If you find something isn’t right then, I might be doing some change in the back-end.
 
-<iframe src="https://drive.google.com/file/d/1dQ56a_qCUAb5TUPJ9aPx-SI4Pwa8oYMs/preview" width="100%" height="100%"></iframe>
+<iframe style="position: absolute; height: 660%; width: 75%" src="https://drive.google.com/file/d/1dQ56a_qCUAb5TUPJ9aPx-SI4Pwa8oYMs/preview"></iframe>
