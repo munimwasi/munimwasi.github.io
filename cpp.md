@@ -8,7 +8,7 @@ img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Sublime, C++]
 ---
-
+```javascript
 {
 	"shell_cmd": "g++ -DLOCAL -std=c++17 -Wshadow -Wall -Wconversion -Wfatal-errors -fsanitize=address,undefined -D_GLIBCXX_DEBUG -g \"${file}\" -o \"${file_path}/${file_base_name}\"",
 	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
@@ -35,3 +35,4 @@ tags: [Sublime, C++]
 		}
 	]
 }
+```
