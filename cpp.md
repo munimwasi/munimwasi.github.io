@@ -3,6 +3,7 @@ layout: about
 title: Sublime Build for C++
 date: 2021-06-30 22:38:17 +0600
 description: Submile Text
+permalink: sublimebuildcpp
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Sublime, C++]
