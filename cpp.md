@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: about
 title: Sublime Build for C++
 date: 2021-06-30 22:38:17 +0600
 description: Submile Text
