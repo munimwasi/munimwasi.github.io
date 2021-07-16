@@ -2,7 +2,6 @@
 layout: post
 title: Welcome to my site
 date: 2021-02-12 21:12:22 +0300
-comments: true
 description: Welcome to my website. I am Munim Hasan Wasi.
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
