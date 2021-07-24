@@ -20,7 +20,7 @@ social-email: aidan@kaist.ac.kr # add your Email address
 discus-identifier: aidanhere # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: G-TZ5WLQF8VM # Google Analytics
 
 # Build Settings
 markdown: kramdown
