@@ -21,6 +21,7 @@ discus-identifier: aidanhere # add your discus identifier
 
 # Tracker
 analytics: G-TZ5WLQF8VM # Google Analytics
+google_analytics: G-TZ5WLQF8VM
 
 # Build Settings
 markdown: kramdown
