@@ -17,7 +17,7 @@ social-linkedin: aidanhere # add your Linkedin handle
 social-email: aidan@kaist.ac.kr # add your Email address
 
 # Disqus
-discus-identifier: aidanhere # add your discus identifier
+discus-identifier: #aidanhere # add your discus identifier
 
 # Tracker
 analytics: G-TZ5WLQF8VM # Google Analytics
