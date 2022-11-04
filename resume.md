@@ -5,4 +5,4 @@ permalink: /resume/
 ---
 Disclaimer: This website is under constant modification. If you find something isn’t right then, I might be doing some change in the back-end.
 
-<iframe style="position: relative; height: 700px ; width: 100%; margin: 0" src="https://drive.google.com/file/d/1VgTMrpRt1f9CHEI7TEvx5IGsNBzwNNgn/preview"></iframe>
+<embed style="position: relative; height: 700px ; width: 100%; margin: 0" src="https://aidanhere.github.io/assets/files/CV_Wasi_KAIST.pdf" type="application/pdf" />
