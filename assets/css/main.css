@@ -1003,6 +1003,7 @@ table tfoot td {
 .content-box {
   padding: 20px;
   padding-left: 260px;
+  width: 100%;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1138,7 +1139,7 @@ footer .copyright {
 
 .post .post-thumbnail {
   width: 30%;
-  max-width: 100%;
+  max-width: 280px;
   min-height: 11rem;
   -webkit-background-size: cover;
           background-size: cover;
