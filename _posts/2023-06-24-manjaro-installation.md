@@ -4,7 +4,7 @@ title: First things to do after a fresh Manjaro Install
 date: 2023-06-24 15:28:16 +0900
 description: Manjaro Installation
 permalink: /manjaro/
-img: oh-my-zsh.jpg # Add image post (optional)
+img: manjaro1.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Manjaro, Linux]
 ---
