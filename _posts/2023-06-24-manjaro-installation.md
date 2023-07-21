@@ -13,13 +13,7 @@ Commands to execute after a fresh installation of Manjaro Linux. This includes s
 ```bash
 sudo pacman-mirrors --geoip
 sudo pacman -Syu
-sudo pacman -Sy yay
-sudo pacman -Sy base-devel
-sudo pacman -Sy telegram-desktop
-sudo pacman -Sy python-pip
-sudo pacman -Sy flameshot
-sudo pacman -Sy neofetch
-sudo pacman -Sy vlc
+sudo pacman -Sy yay base-devel telegram-desktop python-pip flameshot neofetch vlc
 yay -S code
 yay -S slack-desktop
 yay -S google-chrome
