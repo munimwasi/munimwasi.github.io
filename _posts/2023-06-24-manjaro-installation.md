@@ -8,8 +8,7 @@ img: manjaro1.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Manjaro, Linux]
 ---
-Commands to execute after a fresh installation of Manjaro Linux
-
+Commands to execute after a fresh installation of Manjaro Linux. This includes some of the apps that I recommend.
 
 ```bash
 sudo pacman-mirrors --geoip
@@ -20,6 +19,7 @@ sudo pacman -Sy telegram-desktop
 sudo pacman -Sy python-pip
 sudo pacman -Sy flameshot
 sudo pacman -Sy neofetch
+sudo pacman -Sy vlc
 yay -S code
 yay -S slack-desktop
 yay -S google-chrome
