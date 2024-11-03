@@ -102,7 +102,6 @@ These activities will provide an essential outlet for relaxation and community-b
 
 I’m committed to making KAIST a place where every international student feels represented, supported, and connected. My goal as KISA President will be to address practical issues, create opportunities for growth, and foster a strong sense of community for all of us. Let’s build a KAIST that’s more inclusive, empowering, and enjoyable together. I’d be honored to have your support!
 
---- 
 
 Thank you for reading, and let’s work together to make these ideas a reality.
 
