@@ -1,9 +1,9 @@
 ---
 layout: post
-title: KISA Presidential Election Menifesto
+title: KISA Presidential Election Manifesto
 date: 2024-11-03 15:28:16 +0900
-description: KISA Presidential Election Menifesto
-permalink: /kisa-election-menifesto/
+description: KISA Presidential Election Manifesto
+permalink: /kisa-election-manifesto/
 # img: manjaro1.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [KISA, Election]
