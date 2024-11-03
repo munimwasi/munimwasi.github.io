@@ -38,12 +38,12 @@ I want to work towards a future where international students have the same caree
 
 ---
 
-## 3. Introducing a Course Buddy Program
+## 3. Introducing a Study Mates Program
 
-Studying with a buddy can make a huge difference. Having someone in your course to discuss assignments, share ideas, and collaborate with can help make learning more enjoyable and effective. Plus, having a buddy system before course selection can make it easier to choose classes together.
+Studying with a study mate can make a huge difference. Having someone in your course to discuss assignments, share ideas, and collaborate with can help make learning more enjoyable and effective. Plus, having a buddy system before course selection can make it easier to choose classes together.
 
 ### My Solution:
-- **Create a course buddy program** where students taking the same course can connect with each other for better collaboration and support.
+- **Create a study mate program** where students taking the same course can connect with each other for better collaboration and support.
 - **Launch a pre-course buddy matching system** that allows students to talk with each other about courses before the application period, so they can make more informed choices with friends.
 
 This program will help students not only succeed academically but also build connections with their peers.
@@ -106,4 +106,4 @@ I’m committed to making KAIST a place where every international student feels 
 
 Thank you for reading, and let’s work together to make these ideas a reality.
 
-```
+---
