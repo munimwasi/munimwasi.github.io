@@ -1,14 +1,13 @@
 ---
 layout: post
-title: KISA Presidential Election Manifesto
+title: Munim for KISA President
 date: 2024-11-03 15:28:16 +0900
-description: KISA Presidential Election Manifesto
+description: Munim for KISA President
 permalink: /kisa-election-manifesto/
 img: election.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [KISA, Election]
 ---
-# Munim for KISA President
 
 Hello everyone! My name is **Munim**, and I’m running for KISA President because I believe that KAIST should be a place where every international student feels welcome, supported, and connected. My goal is to address the unique challenges we face and make our student life easier, more fulfilling, and more enjoyable. Here’s my plan:
 
