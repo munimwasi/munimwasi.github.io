@@ -91,7 +91,7 @@ By giving new students a better understanding of their departments and career op
 Weekends should be a time to unwind, relax, and connect with others. However, international students often lack regular, organized social activities where they can meet new friends and enjoy their time outside of academics.
 
 ### My Solution:
-- **Organize a range of weekend activities**, including movie nights, board game and card game tournaments, cooking or baking sessions, photography walks, trivia nights, book or podcast clubs, sports days, karaoke nights, and skill exchange workshops.
+- **Organize a range of weekend activities**, including movie nights, board game and card game tournaments, cooking or baking sessions, photography walks, trivia nights, book or podcast sessions, sports days, karaoke nights, and skill exchange workshops.
 - **Create a supportive, engaging social scene** where students can bond, have fun, and make memories together.
 
 These activities will provide an essential outlet for relaxation and community-building, helping international students feel more at home at KAIST.
