@@ -64,7 +64,7 @@ These open meetings will help KISA stay grounded and in tune with the needs and 
 
 ## 5. Career Counseling in English
 
-Planning for a career is challenging, and it’s even harder without proper support. Currently, there’s a lack of **one-on-one career counseling sessions in English**, which makes it difficult for international students to get the guidance they need for internships, job applications, and long-term planning.
+Planning for a career is challenging, and it’s even harder without proper support. Currently, there’s a lack of **one-to-one career counseling sessions in English**, which makes it difficult for international students to get the guidance they need for internships, job applications, and long-term planning.
 
 ### My Solution:
 - **Work with career services to set up dedicated English-language counseling sessions** where students can receive individualized feedback and advice.
