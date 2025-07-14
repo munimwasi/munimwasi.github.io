@@ -1,19 +1,19 @@
 title: Munim
 description: > # this means to ignore newlines until "baseurl:"
-  I am Munim Hasan Wasi.
+  I am Munim Wasi.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Munim Hasan Wasi # add your name
+author: Munim Wasi # add your name
 author-img: mhw4.png # add your photo
 about-author: I am an undergraduate student at KAIST majoring in Computer Science and minoring in Economics # add description
-social-twitter: aidanhere91 # add your Twitter handle
-social-facebook: aidanhere91 # add your Facebook handle
-social-github: aidanhere # add your Github handle
-social-linkedin: aidanhere # add your Linkedin handle
+social-twitter: munimwasi # add your Twitter handle
+social-facebook: munimwasi # add your Facebook handle
+social-github: munimwasi # add your Github handle
+social-linkedin: munimwasi # add your Linkedin handle
 social-email: aidan@kaist.ac.kr # add your Email address
 
 # Disqus
